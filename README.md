@@ -35,8 +35,7 @@
 
 ### Exécution de l’analyse
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/7950b4f6-8714-4ab0-b740-46cf0cc5c2c1" />
-
-<img width="960" height="501" alt="Capture d&#39;écran 2025-12-10 194031" src="https://github.com/user-attachments/assets/6483f646-7fb9-45c2-bbad-bc0d71b51ce3" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/415e7978-c2c6-4d5b-b5e9-90c999782918" />
 <img width="814" height="484" alt="Capture d&#39;écran 2025-12-10 194148" src="https://github.com/user-attachments/assets/e69bef05-1c96-49c5-ac9b-b1021fa8ef9d" />
 <img width="808" height="476" alt="Capture d&#39;écran 2025-12-10 194202" src="https://github.com/user-attachments/assets/0b927c01-ad9a-4ad3-81fa-fd049155234d" />
 <img width="959" height="472" alt="Capture d&#39;écran 2025-12-10 194128" src="https://github.com/user-attachments/assets/c1c53b33-4719-4f15-9797-e6195e99243f" />
